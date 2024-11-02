@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "ebgaramodmedium";
+    src: url(ebgaramondmedium.ttf),
+    url(ebgaramondmedium.woff),
+    url(ebgaramondmedium.woff2);
+}
+
+@font-face {
+    font-family: "ebgaramodregular";
+    src: url(ebgaramondregular.ttf),
+    url(ebgaramondregular.woff),
+    url(ebgaramondregular.woff2);
+}
+
+@font-face {
+    font-family: "interbold";
+    src: url(interbold.ttf),
+    url(interbold.woff),
+    url(interbold.woff2);
+}
+
+@font-face {
+    font-family: "interregular";
+    src: url(interregular.ttf),
+    url(interregular.woff),
+    url(interregular.woff2);
+}
